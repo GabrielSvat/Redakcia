@@ -10,3 +10,6 @@ Trojvalcové radové motory majú menej komponentov ako najčastejšie využíva
 Radový trojvalec však trpí jedným veľkým problémom. Celý motor pozdĺžne vibruje, 
 pretože na jednej strane je vždy väčšia sila ako na tej druhej.
 ----
+Trojvalcový radový motor dnes patrí medzi jeden z najrozšírenejších
+typov piestových spaľovacích motorov, 
+ktorý môžeš pod kapotou moderných automobilov nájsť.
