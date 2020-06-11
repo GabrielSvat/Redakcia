@@ -6,3 +6,7 @@ Trojvalcové radové motory sa začali v automobiloch využívať práve
 kvôli čoraz prísnejším emisným normám. Tieto motory mali byť akousi 
 zárukou nízkej spotreby paliva a mali teda produkovať aj menšie množstvo emisií v porovnaní s väčšími štvorvalcovými radovými motormi.
 ----
+Trojvalcové radové motory majú menej komponentov ako najčastejšie využívané štvorvalcové radové motory, vďaka čomu sú oproti ním ľahšie. 
+Radový trojvalec však trpí jedným veľkým problémom. Celý motor pozdĺžne vibruje, 
+pretože na jednej strane je vždy väčšia sila ako na tej druhej.
+----
