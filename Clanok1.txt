@@ -2,3 +2,7 @@ Autor: Matej Halko
 Nazov: Ake dobre su trojvalce :D
 Datum: 5.6.2020
 ----
+Trojvalcové radové motory sa začali v automobiloch využívať práve 
+kvôli čoraz prísnejším emisným normám. Tieto motory mali byť akousi 
+zárukou nízkej spotreby paliva a mali teda produkovať aj menšie množstvo emisií v porovnaní s väčšími štvorvalcovými radovými motormi.
+----
