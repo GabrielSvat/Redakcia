@@ -2,9 +2,9 @@ Autor: Matej Halko
 Nazov: Ake dobre su trojvalce :D
 Datum: 5.6.2020
 ----
-Najčastejšie používané zážihové a vznetové radové trojvalce majú zdvihový 
-objem 1.0 až 1.5 litra. Tieto motory môžeš nájsť najmä pod kapotou malých 
-mestských automobilov ako napríklad Volkswagen Polo, Škoda Fabia, Seat
+koda Fabia druhej generácie, 
+má s motorom 1.2 12V HTP 51kw pohotovostnú hmotnosť 1025 
+kilogramov a s motorom 1.4 16v 63kw má 1035 kilogramov.
 ----
 Trojvalcové radové motory majú menej komponentov ako najčastejšie využívané štvorvalcové radové motory, vďaka čomu sú oproti ním ľahšie. 
 Radový trojvalec však trpí jedným veľkým problémom. Celý motor pozdĺžne vibruje, 
