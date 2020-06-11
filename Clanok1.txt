@@ -6,3 +6,7 @@ Najčastejšie používané zážihové a vznetové radové trojvalce majú zdvi
 objem 1.0 až 1.5 litra. Tieto motory môžeš nájsť najmä pod kapotou malých 
 mestských automobilov ako napríklad Volkswagen Polo, Škoda Fabia, Seat
 ----
+Okrem ťažkého kľukového hriadeľa však musí byť radový trojvalec vybavený veľkým a ťažkým zotrvačníkom, 
+ktorý vyrovnáva nepravidelný chod motora, čo opäť zhoršuje dynamiku motora. Len pre informáciu, pri šesťvalcových motoroch je potreba zotrvačníka minimálna a pri osem a viac valcových motoroch takmer nulová, 
+práve vďaka ich hladkému chodu. Pri týchto motoroch sa však zotrvačník používa pre získanie trecej plochy pre spojku a zapadnutie pastorka štartéra do ozubeného venca zotrvačníka. Dieselové motory však potrebujú zotrvačník neustále, bez ohľadu na počet valcov. Dôvodom je vysoká kompresia, na ktorú spotrebujú veľké množstvo kinetickej energie roztočeného zotrvačníka.
+----
