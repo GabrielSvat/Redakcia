@@ -10,3 +10,6 @@ Trojvalcové radové motory majú menej komponentov ako najčastejšie využíva
 Radový trojvalec však trpí jedným veľkým problémom. Celý motor pozdĺžne vibruje, 
 pretože na jednej strane je vždy väčšia sila ako na tej druhej.
 ----
+Jeden z najväčších radových trojvalcov, určený na pohon motocyklov,
+mal zdvihový objem 2.3 litra 
+a poháňal motocykel Triumph Rocket III.
